@@ -4,6 +4,7 @@
 
 This contract implements the ERC-20 standard for a fungible token on the Ethereum blockchain. It includes basic functionalities for transferring tokens, approving spending, and handling minting and burning operations.
 
+
 ### Token Details
 
 - **Name:** Solidity by Example
